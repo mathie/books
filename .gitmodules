@@ -1,3 +1,6 @@
 [submodule "vendor/plugins/rspec"]
 	path = vendor/plugins/rspec
 	url = git://github.com/dchelimsky/rspec.git
+[submodule "vendor/plugins/timestamped_booleans"]
+	path = vendor/plugins/timestamped_booleans
+	url = git://github.com/rubaidh/timestamped_booleans
